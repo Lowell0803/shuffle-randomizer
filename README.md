@@ -1,10 +1,8 @@
 # Shuffle
-[![Start Date](readme/start-date.svg)](https://forthebadge.com)
-[![Made in Highschool](readme/made-in-highschool.svg)](https://forthebadge.com)  
-[![Made with Python](readme/made-with-python.svg)](https://forthebadge.com)  
+[![Start Date](readme/start-date.svg)](https://forthebadge.com) [![Made in Highschool](readme/made-in-highschool.svg)](https://forthebadge.com) [![Made with Python](readme/made-with-python.svg)](https://forthebadge.com)  
 
 <p align="center">
-  <img src="./readme/shuffle-logo.png" alt="Logo" width="400"/>
+  <img src="./readme/shuffle-logo-outlined.png" alt="Logo" width="400"/>
 </p>
 
 Shuffle is a simple, Python-based name randomizer designed to support traditional classroom discussions.
